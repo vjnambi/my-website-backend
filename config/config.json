@@ -1,21 +1,21 @@
 {
   "development": {
     "username": "vjnambi",
-    "use_env_variable": "MYSQL_PASSWORD",
+    "password": "SmolPotato!",
     "database": "mywebsitedb",
     "host": "vjnambidb.mysql.database.azure.com",
     "dialect": "mysql"
   },
   "test": {
     "username": "vjnambi",
-    "use_env_variable": "MYSQL_PASSWORD",
+    "password": "SmolPotato!",
     "database": "mywebsitedb",
     "host": "vjnambidb.mysql.database.azure.com",
     "dialect": "mysql"
   },
   "production": {
     "username": "vjnambi",
-    "use_env_variable": "MYSQL_PASSWORD",
+    "password": "SmolPotato!",
     "database": "mywebsitedb",
     "host": "vjnambidb.mysql.database.azure.com",
     "dialect": "mysql"

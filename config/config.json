@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "vjnambi",
-    "password": "${{ secrets.MySQL_Password }}",
+    "password": "SmolPotato!",
     "database": "mywebsitedb",
     "host": "vjnambidb.mysql.database.azure.com",
     "dialect": "mysql"
@@ -15,7 +15,7 @@
   },
   "production": {
     "username": "vjnambi",
-    "password": "${{ secrets.MySQL_Password }}",
+    "password": "SmolPotato!",
     "database": "mywebsitedb",
     "host": "vjnambidb.mysql.database.azure.com",
     "dialect": "mysql"
